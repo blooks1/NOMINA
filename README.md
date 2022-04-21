@@ -1,3 +1,4 @@
 # NOMINA
 nomina parcial
-### pene 
+# su mama
+# su papa
