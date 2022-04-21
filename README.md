@@ -1,0 +1,2 @@
+# NOMINA
+nomina parcial
